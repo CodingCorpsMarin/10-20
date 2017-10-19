@@ -19,6 +19,9 @@ Practice your Sinatra CRUD
 Here are some resources, or you can go back to your old exercises.
 
 http://networkblender.org/2017/06/21/sinatra_crud_application_with_bootstrap_frontend/
+
 http://chrismdp.com/2013/09/extreme-isolation-part-3-crud/
+
 https://www.codeplatoon.org/todays-lesson-sinatra-crud-part-4/
+
 https://steveafrost.com/articles/composing-a-crud-app-in-sinatra/
